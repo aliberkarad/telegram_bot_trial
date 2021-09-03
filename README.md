@@ -9,7 +9,7 @@ from telebot import TeleBot
 Bot_Token = "Bot_token_numbers"  
 ```
 #### Chat_ID between user and bot
-for take it; *https://api.telegram.org/bot`YourBOTToken`/getUpdates*
+for take it; _api.telegram.org/bot`YourBOTToken`/getUpdates_
 ```
 chat_id = "Chat_ID"              
 ```
