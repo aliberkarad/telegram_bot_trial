@@ -1,23 +1,9 @@
-## Telegram Bot Trial
+# Telegram Bot Trials
 
-#### TeleBot library for Telegram
-```
-from telebot import TeleBot
-```
-#### Telegram Bot token that took from BotFather
-```
-Bot_Token = "Bot_token_numbers"  
-```
-#### Chat_ID between user and bot
-for take it; _api.telegram.org/bot`YourBOTToken`/getUpdates_
-```
-chat_id = "Chat_ID"              
-```
-### Calling method into "Bot"
-```
-Bot = TeleBot(Bot_Token) 
-```
-### Message sending to user's chat from bot
-```
-Bot.send_message(chat_id,"message") 
-```
+### [First telebot using on telegram](telegram_bot.py)
+
+### [Telegram Exchange Rate Change Watch Bot](KurDegisimBot.ipynb)
+
+### [It is designed to be able to track foreign exchange](dovizTakip.ipynb)
+
+
